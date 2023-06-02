@@ -1,4 +1,5 @@
 # projekt-9
-unity first person shooter game
+<br>
+<h1> skol projekt </h1>
 
-<p> just a school project </p>
+  <h2>unity first person shooter game </h2>
